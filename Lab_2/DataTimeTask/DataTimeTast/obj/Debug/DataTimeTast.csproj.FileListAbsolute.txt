@@ -1,0 +1,6 @@
+D:\CSharpLabs\Lab_2\DataTimeTast\DataTimeTast\bin\Debug\DataTimeTast.exe.config
+D:\CSharpLabs\Lab_2\DataTimeTast\DataTimeTast\bin\Debug\DataTimeTast.exe
+D:\CSharpLabs\Lab_2\DataTimeTast\DataTimeTast\bin\Debug\DataTimeTast.pdb
+D:\CSharpLabs\Lab_2\DataTimeTast\DataTimeTast\obj\Debug\DataTimeTast.csproj.CoreCompileInputs.cache
+D:\CSharpLabs\Lab_2\DataTimeTast\DataTimeTast\obj\Debug\DataTimeTast.exe
+D:\CSharpLabs\Lab_2\DataTimeTast\DataTimeTast\obj\Debug\DataTimeTast.pdb

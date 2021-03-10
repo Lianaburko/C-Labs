@@ -1,0 +1,7 @@
+D:\CSharpLabs\Lab_2\TriangleTask\TriangleTask\bin\Debug\TriangleTask.exe.config
+D:\CSharpLabs\Lab_2\TriangleTask\TriangleTask\bin\Debug\TriangleTask.exe
+D:\CSharpLabs\Lab_2\TriangleTask\TriangleTask\bin\Debug\TriangleTask.pdb
+D:\CSharpLabs\Lab_2\TriangleTask\TriangleTask\obj\Debug\TriangleTask.csproj.CoreCompileInputs.cache
+D:\CSharpLabs\Lab_2\TriangleTask\TriangleTask\obj\Debug\TriangleTask.exe
+D:\CSharpLabs\Lab_2\TriangleTask\TriangleTask\obj\Debug\TriangleTask.pdb
+D:\CSharpLabs\Lab_2\TriangleTask\TriangleTask\obj\Debug\TriangleTask.csprojAssemblyReference.cache
