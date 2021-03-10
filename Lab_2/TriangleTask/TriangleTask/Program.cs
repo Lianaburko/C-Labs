@@ -137,7 +137,6 @@ class Program
                             Console.WriteLine("Wrong input, use digits");
                             break;
                         }
-
                         Console.WriteLine("The second is: ");
                         var sideSecond = Console.ReadLine();
                         double side2;
@@ -150,7 +149,6 @@ class Program
                             Console.WriteLine("Wrong input, use digits");
                             break;
                         }
-
                         Console.WriteLine("The third is: ");
                         var sideThird = Console.ReadLine();
                         double side3;
@@ -201,7 +199,6 @@ class Program
                             Console.WriteLine("Wrong input, use digits");
                             break;
                         }
-
                         Console.WriteLine("The second angle is: ");
                         var angleSecond = Console.ReadLine();
                         double angle2;
@@ -248,8 +245,6 @@ class Program
                             Console.WriteLine("Wrong input, use digits");
                             break;
                         }
-
-
                         Console.WriteLine("The second side is: ");
                         var sideSecond = Console.ReadLine();
                         double side2;
@@ -262,7 +257,6 @@ class Program
                             Console.WriteLine("Wrong input, use digits");
                             break;
                         }
-
                         Console.WriteLine("The angle between them: ");
                         var angleFirst = Console.ReadLine();
                         double angle1;
@@ -275,7 +269,6 @@ class Program
                             Console.WriteLine("Wrong input, use digits");
                             break;
                         }
-
                         if (angle1 >= 180)
                         {
                             Console.WriteLine("You have wrong input, choose another angle");
@@ -288,7 +281,6 @@ class Program
 
                             Output(side1, side2, side3);
                         }
-
                         break;
                     }
                 case 0:
