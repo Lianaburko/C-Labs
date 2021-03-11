@@ -20,7 +20,9 @@ namespace StringTask
         static void Main(string[] args)
         {
             string alphabet = "abcdefghijklmnopqrstuvwxyza";
-            while (true)
+            Console.WriteLine("Enter a row consist of [a-z] please, write exit to leave the program");
+            bool checking = true;
+            while (checking)
             {
                 string row = Console.ReadLine();
                 char[] mass = new char[row.Length];
@@ -33,19 +35,26 @@ namespace StringTask
                     {
                         if (match.Value == row)
                         {
-                            for (int i = row.Length - 1; i > 0; i--)
+                            if (row.Equals("exit"))
                             {
-                                if (Vowel(row[i - 1]))
-                                {
-                                    int index = alphabet.IndexOf(row[i]);
-                                    mass[i] = alphabet[index + 1];
-                                }
-                                else
-                                {
-                                    mass[i] = row[i];
-                                }
+                                checking = false;
                             }
-                            mass[0] = row[0];
+                            else
+                            {
+                                for (int i = row.Length - 1; i > 0; i--)
+                                {
+                                    if (Vowel(row[i - 1]))
+                                    {
+                                        int index = alphabet.IndexOf(row[i]);
+                                        mass[i] = alphabet[index + 1];
+                                    }
+                                    else
+                                    {
+                                        mass[i] = row[i];
+                                    }
+                                }
+                                mass[0] = row[0];
+                            }        
                         }
                         else
                         {
