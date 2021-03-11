@@ -38,13 +38,13 @@ namespace ConsoleApp4
                     Console.WriteLine("Use only 1-9 numbers, to exit write 0");
                 }
 
-                if (sign.Equals(0)) // проверка, чтоб выйти из программы
-                {
-                    checking = false;
-                }
-
                 switch (sign) // выбор языка
                 {
+                    case 0:
+                        {
+                            checking = false;
+                            break;
+                        }
                     case 1:
                         {
                             language = new CultureInfo("fr-FR");
