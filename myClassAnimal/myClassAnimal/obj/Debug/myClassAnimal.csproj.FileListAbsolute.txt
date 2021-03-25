@@ -1,0 +1,13 @@
+C:\Users\Лиана\source\repos\myClassShop\myClassShop\bin\Debug\myClassShop.exe.config
+C:\Users\Лиана\source\repos\myClassShop\myClassShop\bin\Debug\myClassShop.exe
+C:\Users\Лиана\source\repos\myClassShop\myClassShop\bin\Debug\myClassShop.pdb
+C:\Users\Лиана\source\repos\myClassShop\myClassShop\obj\Debug\myClassAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Лиана\source\repos\myClassShop\myClassShop\obj\Debug\myClassShop.exe
+C:\Users\Лиана\source\repos\myClassShop\myClassShop\obj\Debug\myClassShop.pdb
+C:\Users\Лиана\source\repos\myClassAnimal\myClassAnimal\bin\Debug\myClassShop.exe.config
+C:\Users\Лиана\source\repos\myClassAnimal\myClassAnimal\bin\Debug\myClassShop.exe
+C:\Users\Лиана\source\repos\myClassAnimal\myClassAnimal\bin\Debug\myClassShop.pdb
+C:\Users\Лиана\source\repos\myClassAnimal\myClassAnimal\obj\Debug\myClassAnimal.csprojAssemblyReference.cache
+C:\Users\Лиана\source\repos\myClassAnimal\myClassAnimal\obj\Debug\myClassAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Лиана\source\repos\myClassAnimal\myClassAnimal\obj\Debug\myClassShop.exe
+C:\Users\Лиана\source\repos\myClassAnimal\myClassAnimal\obj\Debug\myClassShop.pdb
