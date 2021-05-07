@@ -5,6 +5,10 @@ namespace myClassAnimals_lab5_
 {
     class Program
     {
+        static void GetAmountOfExtrimities(Animal an1){
+            Console.WriteLine(an1.AmountOfExtremities);
+        }
+
         static void Main(string[] args)
         {   
             Anaconda snake1 = new Anaconda();
@@ -33,17 +37,16 @@ namespace myClassAnimals_lab5_
             Animal animal1 = new Animal("Vasya");
             animal1.AmountOfExtremities = 4;
             Console.WriteLine("Amount of Vasya's extemities is ");
-            Console.WriteLine(animal1.AmountOfExtremities);
+            GetAmountOfExtrimities(animal1);
 
             Console.WriteLine("Amount of snake's extemities is ");
-            Console.WriteLine(snake1.AmountOfExtremities);
+            GetAmountOfExtrimities(snake1);
 
             List<Snake> snakes = new List<Snake>();
             snakes.Add(snake1);
             snakes.Add(snake2);
             snakes.Add(new Snake("Grag", 5));
             snakes.Add(new Snake("Ali", 2.5));
-
 
             snakes.Sort();
             Console.WriteLine("Snakes from the longes to the shortest:");
