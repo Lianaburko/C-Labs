@@ -1,0 +1,13 @@
+﻿  trianglelib.cpp
+C:\Users\Лиана\source\repos\TriangleLib\TriangleLib\trianglelib.cpp(7,59): warning C4273: GetPerimetr: несовместимое связывание dll
+C:\Users\Лиана\source\repos\TriangleLib\TriangleLib\triangle.h(10,35): message : см. предыдущее определение "GetPerimetr"
+C:\Users\Лиана\source\repos\TriangleLib\TriangleLib\trianglelib.cpp(11,60): warning C4273: GetSquareBySideAndHeight: несовместимое связывание dll
+C:\Users\Лиана\source\repos\TriangleLib\TriangleLib\triangle.h(12,33): message : см. предыдущее определение "GetSquareBySideAndHeight"
+C:\Users\Лиана\source\repos\TriangleLib\TriangleLib\trianglelib.cpp(15,62): warning C4273: GetSquareBySides: несовместимое связывание dll
+C:\Users\Лиана\source\repos\TriangleLib\TriangleLib\triangle.h(11,33): message : см. предыдущее определение "GetSquareBySides"
+C:\Users\Лиана\source\repos\TriangleLib\TriangleLib\trianglelib.cpp(21,69): warning C4273: RadiusOfInscribedCircle: несовместимое связывание dll
+C:\Users\Лиана\source\repos\TriangleLib\TriangleLib\triangle.h(13,33): message : см. предыдущее определение "RadiusOfInscribedCircle"
+C:\Users\Лиана\source\repos\TriangleLib\TriangleLib\trianglelib.cpp(28,69): warning C4273: RadiusOfDescribedCircle: несовместимое связывание dll
+C:\Users\Лиана\source\repos\TriangleLib\TriangleLib\triangle.h(14,33): message : см. предыдущее определение "RadiusOfDescribedCircle"
+     Создается библиотека C:\Users\Лиана\source\repos\TriangleLib\Debug\TriangleLib.lib и объект C:\Users\Лиана\source\repos\TriangleLib\Debug\TriangleLib.exp
+  TriangleLib.vcxproj -> C:\Users\Лиана\source\repos\TriangleLib\Debug\TriangleLib.dll

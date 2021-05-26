@@ -24,3 +24,16 @@ D:\CSharpLabs\lab5\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreap
 D:\CSharpLabs\lab5\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreapp3.1\myClassAnimals(lab5).dll
 D:\CSharpLabs\lab5\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreapp3.1\myClassAnimals(lab5).pdb
 D:\CSharpLabs\lab5\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreapp3.1\myClassAnimals(lab5).genruntimeconfig.cache
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\bin\Debug\netcoreapp3.1\myClassAnimals(lab5).exe
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\bin\Debug\netcoreapp3.1\myClassAnimals(lab5).deps.json
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\bin\Debug\netcoreapp3.1\myClassAnimals(lab5).runtimeconfig.json
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\bin\Debug\netcoreapp3.1\myClassAnimals(lab5).runtimeconfig.dev.json
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\bin\Debug\netcoreapp3.1\myClassAnimals(lab5).dll
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\bin\Debug\netcoreapp3.1\myClassAnimals(lab5).pdb
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreapp3.1\myClassAnimals(lab5).csprojAssemblyReference.cache
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreapp3.1\myClassAnimals(lab5).AssemblyInfoInputs.cache
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreapp3.1\myClassAnimals(lab5).AssemblyInfo.cs
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreapp3.1\myClassAnimals(lab5).csproj.CoreCompileInputs.cache
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreapp3.1\myClassAnimals(lab5).dll
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreapp3.1\myClassAnimals(lab5).pdb
+D:\CSharpLabs\lab6\myClassAnimals(lab5)\myClassAnimals(lab5)\obj\Debug\netcoreapp3.1\myClassAnimals(lab5).genruntimeconfig.cache

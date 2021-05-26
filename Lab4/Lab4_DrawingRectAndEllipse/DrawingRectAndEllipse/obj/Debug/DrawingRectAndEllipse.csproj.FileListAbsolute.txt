@@ -1,0 +1,2 @@
+C:\Users\Лиана\source\repos\DrawingRectAndEllipse\DrawingRectAndEllipse\obj\Debug\DrawingRectAndEllipse.csprojAssemblyReference.cache
+C:\Users\Лиана\source\repos\DrawingRectAndEllipse\DrawingRectAndEllipse\obj\Debug\DrawingRectAndEllipse.csproj.CoreCompileInputs.cache

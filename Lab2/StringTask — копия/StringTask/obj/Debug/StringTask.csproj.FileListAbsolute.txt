@@ -1,0 +1,7 @@
+D:\CSharpLabs\Lab_2\StringTask\StringTask\bin\Debug\StringTask.exe.config
+D:\CSharpLabs\Lab_2\StringTask\StringTask\bin\Debug\StringTask.exe
+D:\CSharpLabs\Lab_2\StringTask\StringTask\bin\Debug\StringTask.pdb
+D:\CSharpLabs\Lab_2\StringTask\StringTask\obj\Debug\StringTask.csproj.CoreCompileInputs.cache
+D:\CSharpLabs\Lab_2\StringTask\StringTask\obj\Debug\StringTask.exe
+D:\CSharpLabs\Lab_2\StringTask\StringTask\obj\Debug\StringTask.pdb
+D:\CSharpLabs\Lab_2\StringTask\StringTask\obj\Debug\StringTask.csprojAssemblyReference.cache

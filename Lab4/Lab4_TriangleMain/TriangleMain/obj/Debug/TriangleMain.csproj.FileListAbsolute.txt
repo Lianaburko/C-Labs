@@ -1,0 +1,7 @@
+C:\Users\Лиана\source\repos\TriangleMain\TriangleMain\bin\Debug\TriangleMain.exe.config
+C:\Users\Лиана\source\repos\TriangleMain\TriangleMain\bin\Debug\TriangleMain.exe
+C:\Users\Лиана\source\repos\TriangleMain\TriangleMain\bin\Debug\TriangleMain.pdb
+C:\Users\Лиана\source\repos\TriangleMain\TriangleMain\obj\Debug\TriangleMain.csprojAssemblyReference.cache
+C:\Users\Лиана\source\repos\TriangleMain\TriangleMain\obj\Debug\TriangleMain.csproj.CoreCompileInputs.cache
+C:\Users\Лиана\source\repos\TriangleMain\TriangleMain\obj\Debug\TriangleMain.exe
+C:\Users\Лиана\source\repos\TriangleMain\TriangleMain\obj\Debug\TriangleMain.pdb

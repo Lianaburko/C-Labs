@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharpLabs\\lab5\\myClassAnimals(lab5)\\myClassAnimals(lab5)\\myClassAnimals(lab5).csproj": {}
+    "D:\\CSharpLabs\\lab6\\myClassAnimals(lab5)\\myClassAnimals(lab5)\\myClassAnimals(lab5).csproj": {}
   },
   "projects": {
-    "D:\\CSharpLabs\\lab5\\myClassAnimals(lab5)\\myClassAnimals(lab5)\\myClassAnimals(lab5).csproj": {
+    "D:\\CSharpLabs\\lab6\\myClassAnimals(lab5)\\myClassAnimals(lab5)\\myClassAnimals(lab5).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharpLabs\\lab5\\myClassAnimals(lab5)\\myClassAnimals(lab5)\\myClassAnimals(lab5).csproj",
+        "projectUniqueName": "D:\\CSharpLabs\\lab6\\myClassAnimals(lab5)\\myClassAnimals(lab5)\\myClassAnimals(lab5).csproj",
         "projectName": "myClassAnimals(lab5)",
-        "projectPath": "D:\\CSharpLabs\\lab5\\myClassAnimals(lab5)\\myClassAnimals(lab5)\\myClassAnimals(lab5).csproj",
+        "projectPath": "D:\\CSharpLabs\\lab6\\myClassAnimals(lab5)\\myClassAnimals(lab5)\\myClassAnimals(lab5).csproj",
         "packagesPath": "C:\\Users\\Лиана\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharpLabs\\lab5\\myClassAnimals(lab5)\\myClassAnimals(lab5)\\obj\\",
+        "outputPath": "D:\\CSharpLabs\\lab6\\myClassAnimals(lab5)\\myClassAnimals(lab5)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Лиана\\AppData\\Roaming\\NuGet\\NuGet.Config",
