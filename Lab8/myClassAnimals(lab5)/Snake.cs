@@ -9,8 +9,8 @@ namespace myClassAnimals_lab5_
         }
 
         public Snake(string name)
-            :base (name)
-        {     
+            : base(name)
+        {
         }
 
 
@@ -22,7 +22,7 @@ namespace myClassAnimals_lab5_
 
         public void Move()
         {
-             Console.WriteLine("I am walking");
+            Console.WriteLine("I am walking");
         }
 
         public void SawAnotherAnimalToEat()
@@ -35,19 +35,19 @@ namespace myClassAnimals_lab5_
         {
             if (length > otherSnake.length)
             {
-               return -1;
+                return -1;
             }
-            else 
+            else
             {
-                 if (length < otherSnake.length)
-                 {
+                if (length < otherSnake.length)
+                {
                     return 1;
-                 }
+                }
                 else
                 {
                     return 0;
                 }
-            }         
+            }
         }
 
 
@@ -61,19 +61,19 @@ namespace myClassAnimals_lab5_
             int value = rnd.Next(0, 5);
             switch (value)
             {
-                case 1: 
+                case 1:
                     Console.WriteLine("Swimmimg");
                     Notify?.Invoke($"Snake swims in Amazonka 20 minutes"); // events
                     break;
-                case 2: 
+                case 2:
                     Console.WriteLine("Lying on the sun");
                     Notify?.Invoke($"Snake chill in the jungle 3 hours");  // events
                     break;
-                case 3: 
+                case 3:
                     Console.WriteLine("Climbing the tree");
                     Notify?.Invoke($"Snake climbes the highest tree in the jungle"); // events
                     break;
-                default: 
+                default:
                     Console.WriteLine("Sleeping");
                     Notify?.Invoke($"Snake sleeps on the grass after eating 3 rabbits"); // events
                     break;
@@ -160,7 +160,7 @@ namespace myClassAnimals_lab5_
 
         public bool Hunger { set; get; }
 
-        public bool Venomous { set; get; } 
+        public bool Venomous { set; get; }
 
         public string DefineHunger(bool hunger)
         {
@@ -169,7 +169,7 @@ namespace myClassAnimals_lab5_
                 return "Snake is hungry, define the number of rabbits to eat";
             }
             else
-            {    
+            {
                 return "Snake isn't hungry";
             }
         }
@@ -199,4 +199,3 @@ namespace myClassAnimals_lab5_
         public WayOfMoving MovingType { get; set; }
     }
 }
-     

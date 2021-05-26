@@ -5,7 +5,8 @@ namespace myClassAnimals_lab5_
 {
     class Program
     {
-        static void GetAmountOfExtrimities(Animal an1){
+        static void GetAmountOfExtrimities(Animal an1)
+        {
             Console.WriteLine(an1.AmountOfExtremities);
         }
 
@@ -23,7 +24,7 @@ namespace myClassAnimals_lab5_
         }
 
         static void Main(string[] args)
-        {   
+        {
             Anaconda snake1 = new Anaconda();
             snake1.Name = "Kostya";
             snake1.Age = 15;
@@ -34,7 +35,7 @@ namespace myClassAnimals_lab5_
 
             Animal animal2 = new Snake();
             animal2.Name = "Gi";
-            
+
             Python snake2 = new Python("Ars");
             Console.WriteLine(snake2.DefineHunger(true));
             snake2.Eating(true, 9);
@@ -63,7 +64,7 @@ namespace myClassAnimals_lab5_
 
             snakes.Sort();
             Console.WriteLine("Snakes from the longes to the shortest:");
-            foreach(Snake a in snakes)
+            foreach (Snake a in snakes)
             {
                 Console.WriteLine(a.Name + ", the length is " + a.Length);
             }
